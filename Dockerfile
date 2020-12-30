@@ -1,2 +1,2 @@
 FROM webhook
-RUN yum install -y nc net-tools bind-utils && ls -lahtr /root
+RUN yum install -y nc net-tools bind-utils
